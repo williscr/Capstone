@@ -41,6 +41,10 @@ Models: lgbm.ipynb , xgboost.ipynb, LogisticRegression.ipynb
 main.ipynb 
 - File that runs the preprocessing and model notebooks. Outputs the results of the models, with confusion matricies and the F1 score. 
 
+**Run** 
+To Run the EDA and produce graphics - run EDA.ipynb 
+To Run the models and produce model results - run main.ipynb
+
 **Results**
 
 The main findings of the code can be found at the post available at : https://medium.com/@clarewillis.79/can-you-predict-the-price-of-your-next-holiday-19774cc9aeed.
