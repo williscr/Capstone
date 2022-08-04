@@ -1,6 +1,6 @@
 # Capstone
 
-Table of Contents :
+#Table of Contents :
 
 Installation
 
@@ -20,14 +20,14 @@ numpy, pandas , matplotlib, seaborn, dython, sklearn, lightgbm, xgboost, optuna
 
 The code should run with no issues using Python versions 3.*.
 
-Project Motivation : 
+#Project Motivation : 
 
 For this project, I was interestested in using an insurance dataset to preict customers interest in a new policy. 
 
 Study Aim : To predict a binary classifier utilising Vehicle insurance to predict if existing customers will be interested in the health insurance offering.
 What neighbourhood in seattle is the cheapest to rent a listing ?
 
-File Descriptions : 
+#File Descriptions : 
 EDA : EDA.ipynb 
 - This files contains all the Exploratory Data analysis of the study. Including graphs, descriptive statistics and correlation calculations. 
 
@@ -40,7 +40,7 @@ Models: lgbm.ipynb , xgboost.ipynb, LogisticRegression.ipynb
 main.ipynb 
 - File that runs the preprocessing and model notebooks. Outputs the results of the models, with confusion matricies and the F1 score. 
 
-Results
+#Results
 
 The main findings of the code can be found at the post available at : https://medium.com/@clarewillis.79/can-you-predict-the-price-of-your-next-holiday-19774cc9aeed.
 
@@ -52,9 +52,8 @@ Licensing, Authors, Acknowledgements
 
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at : Data Link : https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
-REFERENCES
+#REFERENCES
 
-**Concepts used in this notebook have been derived from module 2 of the udacity data science nano degree. Methods taking substantial inspiration from the concepts taught in the labs in the course have been referenced in the notebook. I also gained inspiration for this project from kaggles open data code discussion
 Articles : 
 https://medium.com/analytics-vidhya/linear-regression-and-random-forest-33d4297a186a
 https://medium.com/optuna/an-introduction-to-the-implementation-of-optuna-a-hyperparameter-optimization-framework-33995d9ec354
