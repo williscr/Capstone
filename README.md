@@ -80,3 +80,4 @@ Kaggle Notebooks :
 https://www.kaggle.com/code/yashvi/vehicle-insurance-eda-and-boosting-models
 https://www.kaggle.com/code/songulerdem/health-insurance-cross-sell-prediction-xgboost
 https://www.kaggle.com/code/anmolkumar/vehicle-insurance-eda-lgbm-vs-catboost-85-83
+https://github.com/nihalhabeeb/Health_Insurance_Cross_Sell_Prediction/blob/main/Health_Insurance_Cross_Sell_Prediction_Capstone_Project.ipynb
