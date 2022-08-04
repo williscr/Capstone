@@ -1,6 +1,6 @@
 # Capstone
 
-#Table of Contents :
+**Table of Contents :**
 
 Installation
 
@@ -12,7 +12,7 @@ Results
 
 Licensing, Authors, and Acknowledgements
 
-Installation : 
+**Installation :**
 
 The neccessary libraries required to run the code are :
 
@@ -20,14 +20,15 @@ numpy, pandas , matplotlib, seaborn, dython, sklearn, lightgbm, xgboost, optuna
 
 The code should run with no issues using Python versions 3.*.
 
-#Project Motivation : 
+**Project Motivation :**
 
 For this project, I was interestested in using an insurance dataset to preict customers interest in a new policy. 
 
 Study Aim : To predict a binary classifier utilising Vehicle insurance to predict if existing customers will be interested in the health insurance offering.
 What neighbourhood in seattle is the cheapest to rent a listing ?
 
-#File Descriptions : 
+**File Descriptions : **
+
 EDA : EDA.ipynb 
 - This files contains all the Exploratory Data analysis of the study. Including graphs, descriptive statistics and correlation calculations. 
 
@@ -40,7 +41,7 @@ Models: lgbm.ipynb , xgboost.ipynb, LogisticRegression.ipynb
 main.ipynb 
 - File that runs the preprocessing and model notebooks. Outputs the results of the models, with confusion matricies and the F1 score. 
 
-#Results
+**Results**
 
 The main findings of the code can be found at the post available at : https://medium.com/@clarewillis.79/can-you-predict-the-price-of-your-next-holiday-19774cc9aeed.
 
@@ -52,7 +53,7 @@ Licensing, Authors, Acknowledgements
 
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at : Data Link : https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
-#REFERENCES
+**REFERENCES**
 
 Articles : 
 https://medium.com/analytics-vidhya/linear-regression-and-random-forest-33d4297a186a
