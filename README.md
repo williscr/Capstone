@@ -27,7 +27,7 @@ For this project, I was interestested in using an insurance dataset to preict cu
 Study Aim : To predict a binary classifier utilising Vehicle insurance to predict if existing customers will be interested in the health insurance offering.
 What neighbourhood in seattle is the cheapest to rent a listing ?
 
-**File Descriptions : **
+**File Descriptions :**
 
 EDA : EDA.ipynb 
 - This files contains all the Exploratory Data analysis of the study. Including graphs, descriptive statistics and correlation calculations. 
