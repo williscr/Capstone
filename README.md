@@ -1,5 +1,7 @@
 # Capstone
 
+MEDIUM DELIVERABLE : https://medium.com/@clarewillis.79/binary-classification-learning-by-doing-9c53c7c32ac2
+
 **Table of Contents :**
 
 Installation
@@ -47,7 +49,7 @@ To Run the models and produce model results - run main.ipynb
 
 **Results**
 
-The main findings of the code can be found at the post available at : https://medium.com/@clarewillis.79/can-you-predict-the-price-of-your-next-holiday-19774cc9aeed.
+The main findings of the code can be found at the post available at :https://medium.com/@clarewillis.79/binary-classification-learning-by-doing-9c53c7c32ac2
 
 The results are also found by running main.ipynb.
 
